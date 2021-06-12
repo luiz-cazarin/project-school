@@ -20,4 +20,8 @@ npm run build
 ```
 
  ![acessar](https://github.com/luiz-cazarin/project-school/blob/main/readme-guia.jpg)
-
+ 
+ ### Use o seguinte endereço para acessar a pagina
+ ``
+ http://localhost:8080/
+ ``
