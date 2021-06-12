@@ -19,3 +19,5 @@ npm run serve
 npm run build
 ```
 
+ ![acessar](https://github.com/luiz-cazarin/project-school/blob/main/readme-guia.jpg)
+
