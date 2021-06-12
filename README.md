@@ -1,20 +1,21 @@
 # Project - Vidya Technology
 ### Luiz Claudio
 
-## Project setup
+## Navegue até a pasta do projeto
+cd project-school/
+
+## Instale as dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Inicie a aplicação
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar e diminuir para produção
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
