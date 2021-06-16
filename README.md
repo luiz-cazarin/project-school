@@ -1,4 +1,4 @@
-# Project - Vidya Technology
+# Projeto escola
 ### Luiz Claudio
 
 ## Navegue até a pasta do projeto
