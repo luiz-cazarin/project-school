@@ -1,4 +1,4 @@
-# Projeto escola
+# Projeto escola - Vuetify
 ### Luiz Claudio
 
 ## Navegue até a pasta do projeto
